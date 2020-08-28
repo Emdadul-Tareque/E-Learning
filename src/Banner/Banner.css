@@ -1,0 +1,15 @@
+.banner-container {
+    background-color: #271066;
+    color: #fff;
+    width: 100%;
+    margin: 0 auto;
+    max-width: 1400px;
+    position: relative;
+    width: 100%;
+   
+
+}
+
+.Banner-image img{
+    height: 300px;
+}
